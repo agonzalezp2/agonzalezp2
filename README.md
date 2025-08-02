@@ -61,7 +61,7 @@ Scikit-learn, LangChain, Promptfoo, NLP, Regression, Classification, Forecasting
 
 ## 🗣️ Languages
 
-English (Native) | Spanish (Native) | French (Native)
+English 🇬🇧 | Spanish 🇪🇸 | French 🇫🇷 *(All native fluency)*
 
 ---
 
