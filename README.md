@@ -70,9 +70,8 @@ English 🇬🇧 | Spanish 🇪🇸 | French 🇫🇷 *(All native fluency)*
 
 ## 📬 Find Me
 
-- [LinkedIn](https://www.linkedin.com/in/agustin-gonzalez-pozo)  
-- 🗂️ [GitHub Portfolio – agustin-portfolio](https://github.com/agonzalezp2/agustin-portfolio)
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/agustin-gonzalez-pozo)  
+- 🗂️ [GitHub Portfolio](https://github.com/agonzalezp2/agustin-portfolio)
 
 ---
 
