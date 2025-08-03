@@ -41,7 +41,10 @@ Scikit-learn, LangChain, Promptfoo, NLP, Regression, Classification, Forecasting
 
 ---
 
-## 🧩 Selected Projects
+## 🚀 Selected Projects - Portfolio
+
+See my full technical portfolio with project breakdowns, code, and research:  
+🔗 [github.com/agonzalezp2/agustin-portfolio](https://github.com/agonzalezp2/agustin-portfolio)
 
 - **GenAI RAG System** – Retrieval-Augmented Generation project using Langchain & AWS Bedrock  
 - **Analytics Lakehouse** – Designed & deployed architecture in MS Fabric, unlocking siloed datasets  
@@ -68,6 +71,8 @@ English 🇬🇧 | Spanish 🇪🇸 | French 🇫🇷 *(All native fluency)*
 ## 📬 Find Me
 
 - [LinkedIn](https://www.linkedin.com/in/agustin-gonzalez-pozo)  
+- 🗂️ [GitHub Portfolio – agustin-portfolio](https://github.com/agonzalezp2/agustin-portfolio)
+
 
 ---
 
